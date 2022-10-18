@@ -15,7 +15,7 @@ Functions:
   This was a group project I was involved in for my DS2500 Class.
   
 My contributions were in the rating predictor and AI-generated reviews:
-  - Created the rating predictor entirely myself with around 80-90% accuracy. 
+  - Created the rating predictor using a combination of 3 models with around 80-90% accuracy. 
   - Helped make adjustments to the AI-generated reviews in order to create comprehensible sentences. 
 
   
